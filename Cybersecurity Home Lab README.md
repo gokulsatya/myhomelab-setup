@@ -82,13 +82,13 @@ This section documents the specific attack vectors tested and the corresponding 
 
 ### **The "Vertical Wall" of Alerts**
 
-*(Insert your Wazuh Dashboard screenshot showing the spike in 4625 errors)*
+<img width="1736" height="932" alt="Screenshot 2025-12-15 163316" src="https://github.com/user-attachments/assets/b4ecf659-75d5-403a-b980-43cd7f1bdf79" />
+
 
 *Visualizing the brute force attack volume in real-time.*
 
 ### **Suricata Interface on pfSense**
-
-*(Insert your pfSense dashboard screenshot)*
+<img width="1643" height="920" alt="Screenshot 2025-12-15 163458" src="https://github.com/user-attachments/assets/835aaef1-1763-4b6d-a132-94a4f4c2b9bf" />
 
 *Managing interface assignments and IDS rules.*
 
@@ -106,4 +106,4 @@ This section documents the specific attack vectors tested and the corresponding 
 
 * ---
 
-  \[LinkedIn Profile Link\]
+  LinkedIn Profile Link\](https://www.linkedin.com/in/gokulsathiyamurthy088/
