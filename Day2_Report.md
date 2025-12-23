@@ -59,13 +59,6 @@ After establishing basic network segmentation on Day 1, the goal for Day 2 was t
 | **Firewall Logic** | Configuring stateful packet filtering & handling rule application states |
 | **Agent Ops** | Troubleshooting Wazuh agent encryption keys and connectivity logs |
 
----
-
-## ⏭️ Next Steps (Day 3 Preview)
-With the Domain Controller now active and reporting logs:
-1.  **Simulate Attacks:** Launch a Brute Force or Golden Ticket attack against the DC.
-2.  **Detection Engineering:** Write a custom Wazuh Rule to detect the specific attack signature.
-3.  **Response:** trigger an active response script to block the attacker IP.
 
 ---
-*Lab maintained by [Your Name]*
+*Lab maintained by Gokul Sathiyamurthy*
